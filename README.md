@@ -45,13 +45,6 @@ And it gave us a plot that looked like this after 20 minutes of updating.
 
 ![](Images/Graph.png)
 
-Finally, the program ran on three scripts. The first was the credentials script which contained all the
-access keys etc give to us by twitter. The second was the main script that streamed the data, used the
-language processing feature, created the csv file, dealt with the JSON and finally saved the relevant
-data in the csv file. The third and final was the script that plotted the updated data from the csv file.
-Therefore **to run the program** all three scripts should be in the first folder firstly. And then, the
-
-
 #How To Use It:
 
 Fill up the Credentials.py file, then run app.py and Plotter.py simultaneously to get real time graphing. 
