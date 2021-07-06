@@ -2,7 +2,7 @@
 
 ### DEMO VIDEO
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pCvVDvYsdyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pCvVDvYsdyk/0.jpg)](https://www.youtube.com/watch?v=pCvVDvYsdyk)
 
 Our final project is intended to track the spread of diseases (based on the settings) using data from
 Tweets. The project works on three main levels: the retrieval of live data from twitter, the
@@ -45,7 +45,7 @@ And it gave us a plot that looked like this after 20 minutes of updating.
 
 ![](Images/Graph.png)
 
-##How To Use It:
+## How To Use It:
 
 Fill up the Credentials.py file, then run app.py and Plotter.py simultaneously to get real time graphing. 
 And to change the keywords that the program looks for, edit the words in the last 
