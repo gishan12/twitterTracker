@@ -45,7 +45,7 @@ And it gave us a plot that looked like this after 20 minutes of updating.
 
 ![](Images/Graph.png)
 
-#How To Use It:
+##How To Use It:
 
 Fill up the Credentials.py file, then run app.py and Plotter.py simultaneously to get real time graphing. 
 And to change the keywords that the program looks for, edit the words in the last 
