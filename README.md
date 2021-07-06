@@ -1,5 +1,9 @@
 # README
 
+### DEMO VIDEO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pCvVDvYsdyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Our final project is intended to track the spread of diseases (based on the settings) using data from
 Tweets. The project works on three main levels: the retrieval of live data from twitter, the
 processing of the JSON object (on the basis of the tweet and its geolocation settings) and finally the
@@ -35,7 +39,7 @@ creating a csv file and storing each new datum as a row in the csv file and then
 grapher that read this file every certain amount of time. Finally, we obtained results that looked
 something like this:
 
-![](Images/project look.png)
+![](Images/project_look.png)
 
 And it gave us a plot that looked like this after 20 minutes of updating.
 
